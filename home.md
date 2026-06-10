@@ -2,7 +2,7 @@
 title: RI
 description: 
 published: true
-date: 2026-06-10T13:35:24.950Z
+date: 2026-06-10T13:35:35.891Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T08:53:51.586Z
@@ -10,7 +10,7 @@ dateCreated: 2026-06-09T08:53:51.586Z
 
 # 🔗 RI - FR
 
-# **Règlement T****RUC** **Intérieur**
+# **Règlement TRUC** **Intérieur**
 
 **Règlement intérieur 42 Lyon**
 
