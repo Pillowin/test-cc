@@ -2,7 +2,7 @@
 title: RI
 description: 
 published: true
-date: 2026-06-10T13:53:47.249Z
+date: 2026-06-10T13:54:14.625Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T08:53:51.586Z
